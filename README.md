@@ -12,7 +12,5 @@ Some linker fun to learn
 
 ## Troubleshooting
 
-+ Having trouble linking?
-    + Make sure MinGW and the Python lib are the same 32 bits or 64 bits version
 + Running into `windows error while loading shared libraries: ?: cannot open shared object file: No such file or directory`
     + Make sure MinGW is part of your path
